@@ -1,0 +1,2 @@
+// REPLACE: add key.glb here; keep below 1,500,000 bytes and Draco compress geometry.
+Then set modelEnabled: true in content/shop.json. Center the model at origin, longest dimension about 2.8 units, front along +Z. Use embedded textures, maximum 1024px. Decoder files are copied locally from the pinned three package by postinstall. No runtime CDN is required. The default rounded-box fob is an illustration, not a real stock item.

@@ -1,0 +1,21 @@
+BHIM LOCK AND KEYS — FINAL IVORY & BURGUNDY WEBSITE
+
+1. Extract this ZIP to a new folder (preferably outside OneDrive).
+2. If the old website is running, stop its black window with Ctrl+C.
+3. Open the extracted bhim-lock-and-keys folder.
+4. Double-click OPEN-WEBSITE.cmd.
+5. Wait for Ready, then open http://localhost:3000.
+6. Keep the black window open while viewing the website.
+
+Node.js must be installed. The first opening downloads the pinned packages.
+
+Included: large real shopfront, all three real shop photos, three supplied
+review screenshots, 12 service cards, illustrative equipment image,
+car-brand WhatsApp dropdown, English/Hindi switch, and scroll-driven 3D.
+
+The equipment and service product images are generated illustrations.
+Replace the equipment illustration when you have a real machine photo.
+3D uses an illustrative model; low-power or reduced-motion devices use a
+static fallback. API integrations need your own credentials in .env.local.
+
+For hosting instructions and the launch checklist, read README.md.

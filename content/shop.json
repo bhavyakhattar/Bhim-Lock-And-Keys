@@ -1,0 +1,333 @@
+{
+  "_comment": "Services supplied and confirmed by owner. Generated product images are illustrative; car compatibility requires model/year confirmation.",
+  "name": "Bhim Lock and Keys",
+  "phone": "+919855367929",
+  "whatsapp": "919855367929",
+  "streetAddress": "SCO 3002, Sector 22 D",
+  "area": "Sector 22 D, Chandigarh",
+  "hours": {
+    "Mon": [
+      [
+        "10:00",
+        "20:00"
+      ]
+    ],
+    "Tue": [
+      [
+        "10:00",
+        "20:00"
+      ]
+    ],
+    "Wed": [
+      [
+        "10:00",
+        "20:00"
+      ]
+    ],
+    "Thu": [
+      [
+        "10:00",
+        "20:00"
+      ]
+    ],
+    "Fri": [
+      [
+        "10:00",
+        "20:00"
+      ]
+    ],
+    "Sat": [
+      [
+        "10:00",
+        "20:00"
+      ]
+    ],
+    "Sun": [
+      [
+        "10:00",
+        "16:00"
+      ]
+    ]
+  },
+  "hoursExceptions": {},
+  "mapsEmbed": "https://www.google.com/maps?q=SCO%203002%2C%20Sector%2022%20D%2C%20Chandigarh&output=embed",
+  "directions": "https://www.google.com/maps/dir/?api=1&destination=SCO%203002%2C%20Sector%2022%20D%2C%20Chandigarh",
+  "modelEnabled": false,
+  "photos": [
+    {
+      "src": "/images/shop-front.webp",
+      "alt": {
+        "en": "Bhim Lock and Keys storefront in Sector 22 D",
+        "hi": "सेक्टर 22 डी में भीम लॉक एंड कीज़ की दुकान"
+      }
+    },
+    {
+      "src": "/images/key-making-sign.webp",
+      "alt": {
+        "en": "Duplicate key making sign outside the shop",
+        "hi": "दुकान के बाहर डुप्लीकेट चाबी बनाने का बोर्ड"
+      }
+    },
+    {
+      "src": "/images/shop-sign.webp",
+      "alt": {
+        "en": "Bhim Lock and Keys shop sign and entrance",
+        "hi": "भीम लॉक एंड कीज़ का बोर्ड और प्रवेश द्वार"
+      }
+    }
+  ],
+  "services": [
+    {
+      "id": "key-cutting",
+      "title": {
+        "en": "Key duplication",
+        "hi": "डुप्लीकेट चाबी"
+      },
+      "description": {
+        "en": "Tell us what you need. Contact the shop for availability and a quote.",
+        "hi": "अपनी ज़रूरत बताएं। उपलब्धता और कीमत दुकान से पूछें।"
+      },
+      "icon": "01",
+      "art": 0
+    },
+    {
+      "id": "locks",
+      "title": {
+        "en": "Lock repairs",
+        "hi": "ताले की मरम्मत"
+      },
+      "description": {
+        "en": "Tell us what you need. Contact the shop for availability and a quote.",
+        "hi": "अपनी ज़रूरत बताएं। उपलब्धता और कीमत दुकान से पूछें।"
+      },
+      "icon": "02",
+      "art": 1
+    },
+    {
+      "id": "lock-installation",
+      "title": {
+        "en": "Lock installation",
+        "hi": "ताला लगवाएं"
+      },
+      "description": {
+        "en": "Tell us what you need. Contact the shop for availability and a quote.",
+        "hi": "अपनी ज़रूरत बताएं। उपलब्धता और कीमत दुकान से पूछें।"
+      },
+      "icon": "03",
+      "art": 2
+    },
+    {
+      "id": "car-keys",
+      "title": {
+        "en": "Car flip keys",
+        "hi": "कार फ्लिप चाबियां"
+      },
+      "description": {
+        "en": "Tell us what you need. Contact the shop for availability and a quote.",
+        "hi": "अपनी ज़रूरत बताएं। उपलब्धता और कीमत दुकान से पूछें।"
+      },
+      "icon": "04",
+      "art": 3
+    },
+    {
+      "id": "unlocking",
+      "title": {
+        "en": "Door unlocking",
+        "hi": "दरवाज़ा खुलवाएं"
+      },
+      "description": {
+        "en": "Tell us what you need. Contact the shop for availability and a quote.",
+        "hi": "अपनी ज़रूरत बताएं। उपलब्धता और कीमत दुकान से पूछें।"
+      },
+      "icon": "05",
+      "art": 4
+    },
+    {
+      "id": "chip-keys",
+      "title": {
+        "en": "Sensor / chip keys",
+        "hi": "सेंसर / चिप चाबियां"
+      },
+      "description": {
+        "en": "Tell us what you need. Contact the shop for availability and a quote.",
+        "hi": "अपनी ज़रूरत बताएं। उपलब्धता और कीमत दुकान से पूछें।"
+      },
+      "icon": "06",
+      "art": 5
+    },
+    {
+      "id": "programming",
+      "title": {
+        "en": "Remote programming",
+        "hi": "रिमोट प्रोग्रामिंग"
+      },
+      "description": {
+        "en": "Tell us what you need. Contact the shop for availability and a quote.",
+        "hi": "अपनी ज़रूरत बताएं। उपलब्धता और कीमत दुकान से पूछें।"
+      },
+      "icon": "07",
+      "art": 6
+    },
+    {
+      "id": "smart-keys",
+      "title": {
+        "en": "Smart-key replacement",
+        "hi": "स्मार्ट चाबी बदलवाएं"
+      },
+      "description": {
+        "en": "Tell us what you need. Contact the shop for availability and a quote.",
+        "hi": "अपनी ज़रूरत बताएं। उपलब्धता और कीमत दुकान से पूछें।"
+      },
+      "icon": "08",
+      "art": 7
+    },
+    {
+      "id": "remote-repair",
+      "title": {
+        "en": "Remote repair & batteries",
+        "hi": "रिमोट मरम्मत और बैटरी"
+      },
+      "description": {
+        "en": "Tell us what you need. Contact the shop for availability and a quote.",
+        "hi": "अपनी ज़रूरत बताएं। उपलब्धता और कीमत दुकान से पूछें।"
+      },
+      "icon": "09",
+      "art": 8
+    },
+    {
+      "id": "key-shell",
+      "title": {
+        "en": "Key shells & buttons",
+        "hi": "चाबी शेल और बटन"
+      },
+      "description": {
+        "en": "Tell us what you need. Contact the shop for availability and a quote.",
+        "hi": "अपनी ज़रूरत बताएं। उपलब्धता और कीमत दुकान से पूछें।"
+      },
+      "icon": "10",
+      "art": 9
+    },
+    {
+      "id": "lost-key",
+      "title": {
+        "en": "Lost car-key replacement",
+        "hi": "खोई कार चाबी बदलवाएं"
+      },
+      "description": {
+        "en": "Tell us what you need. Contact the shop for availability and a quote.",
+        "hi": "अपनी ज़रूरत बताएं। उपलब्धता और कीमत दुकान से पूछें।"
+      },
+      "icon": "11",
+      "art": 3
+    },
+    {
+      "id": "accessories",
+      "title": {
+        "en": "Keychains & accessories",
+        "hi": "कीचेन और एक्सेसरीज़"
+      },
+      "description": {
+        "en": "Tell us what you need. Contact the shop for availability and a quote.",
+        "hi": "अपनी ज़रूरत बताएं। उपलब्धता और कीमत दुकान से पूछें।"
+      },
+      "icon": "12",
+      "art": 10
+    }
+  ],
+  "products": [
+    {
+      "id": "loop",
+      "name": {
+        "en": "The everyday loop",
+        "hi": "रोज़मर्रा का लूप"
+      },
+      "category": {
+        "en": "Keychain concept",
+        "hi": "कीचेन का नमूना"
+      },
+      "image": "/images/loop.webp",
+      "price": null,
+      "placeholder": true,
+      "_comment": "// REPLACE with actual product, photo and optional verified INR price"
+    },
+    {
+      "id": "ring",
+      "name": {
+        "en": "The classic ring",
+        "hi": "क्लासिक रिंग"
+      },
+      "category": {
+        "en": "Keyring concept",
+        "hi": "कीरिंग का नमूना"
+      },
+      "image": "/images/ring.webp",
+      "price": null,
+      "placeholder": true,
+      "_comment": "// REPLACE with actual product, photo and optional verified INR price"
+    },
+    {
+      "id": "cover",
+      "name": {
+        "en": "The remote cover",
+        "hi": "रिमोट कवर"
+      },
+      "category": {
+        "en": "Accessory concept",
+        "hi": "एक्सेसरी का नमूना"
+      },
+      "image": "/images/cover.webp",
+      "price": null,
+      "placeholder": true,
+      "_comment": "// REPLACE with actual product, photo and optional verified INR price"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Can you help with my car remote?",
+        "hi": "क्या मेरे कार रिमोट में मदद मिल सकती है?"
+      },
+      "a": {
+        "en": "Send the brand, model, year and a clear photo. The shop will confirm whether it can help; the finder does not guarantee compatibility.",
+        "hi": "ब्रांड, मॉडल, साल और साफ़ फोटो भेजें। दुकान जांच कर बताएगी। फाइंडर अनुकूलता की गारंटी नहीं देता।"
+      }
+    },
+    {
+      "q": {
+        "en": "How much will a replacement cost?",
+        "hi": "नई चाबी का खर्च कितना होगा?"
+      },
+      "a": {
+        "en": "The price depends on the key and work required. Contact the shop for a quote before proceeding.",
+        "hi": "कीमत चाबी और काम पर निर्भर करती है। काम शुरू करने से पहले दुकान से कीमत पूछें।"
+      }
+    },
+    {
+      "q": {
+        "en": "Can I send a photo on WhatsApp?",
+        "hi": "क्या WhatsApp पर फोटो भेज सकते हैं?"
+      },
+      "a": {
+        "en": "Yes. Open the photo enquiry link and attach your photo inside WhatsApp. The link cannot attach a photo automatically.",
+        "hi": "हां। फोटो वाला लिंक खोलकर WhatsApp में फोटो जोड़ें। लिंक अपने आप फोटो नहीं जोड़ सकता।"
+      }
+    },
+    {
+      "q": {
+        "en": "What should I bring to the shop?",
+        "hi": "दुकान पर क्या लेकर आएं?"
+      },
+      "a": {
+        "en": "Ask the shop first. Bring the existing key if available and be ready to show proof of ownership for access-related work.",
+        "hi": "पहले दुकान से पूछें। पुरानी चाबी हो तो साथ लाएं। संबंधित काम के लिए मालिक होने का प्रमाण दिखाना पड़ सकता है।"
+      }
+    }
+  ],
+  "_replace_hoursExceptions": "// REPLACE: verified dated closures / special hours",
+  "_replace_modelEnabled": "// REPLACE: set true after placing a compressed key.glb",
+  "_replace_equipment": "// REPLACE: illustrative machine image with actual shop equipment photo when supplied.",
+  "secondaryPhone": "+919463393119",
+  "email": "navneet3588@gmail.com",
+  "yearsInBusiness": 35,
+  "interviewUrl": "https://www.youtube.com/watch?v=n06074_bv-c"
+}
