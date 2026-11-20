@@ -245,7 +245,7 @@
         "en": "Keychain concept",
         "hi": "कीचेन का नमूना"
       },
-      "image": "/Bhim-Lock-And-Keys/images/loop.webp"
+      "image": "/Bhim-Lock-And-Keys/images/loop.webp",
       "price": null,
       "placeholder": true,
       "_comment": "// REPLACE with actual product, photo and optional verified INR price"
