@@ -55,21 +55,21 @@
   "modelEnabled": false,
   "photos": [
     {
-      "src": "/images/shop-front.webp",
+     "src": "/Bhim-Lock-And-Keys/images/shop-front.webp",
       "alt": {
         "en": "Bhim Lock and Keys storefront in Sector 22 D",
         "hi": "सेक्टर 22 डी में भीम लॉक एंड कीज़ की दुकान"
       }
     },
     {
-      "src": "/images/key-making-sign.webp",
+      "src": "/Bhim-Lock-And-Keys/images/key-making-sign.webp",
       "alt": {
         "en": "Duplicate key making sign outside the shop",
         "hi": "दुकान के बाहर डुप्लीकेट चाबी बनाने का बोर्ड"
       }
     },
     {
-      "src": "/images/shop-sign.webp",
+      "src": "/Bhim-Lock-And-Keys/images/shop-sign.webp"
       "alt": {
         "en": "Bhim Lock and Keys shop sign and entrance",
         "hi": "भीम लॉक एंड कीज़ का बोर्ड और प्रवेश द्वार"
@@ -245,7 +245,7 @@
         "en": "Keychain concept",
         "hi": "कीचेन का नमूना"
       },
-      "image": "/images/loop.webp",
+      "image": "/Bhim-Lock-And-Keys/images/loop.webp"
       "price": null,
       "placeholder": true,
       "_comment": "// REPLACE with actual product, photo and optional verified INR price"
@@ -260,7 +260,7 @@
         "en": "Keyring concept",
         "hi": "कीरिंग का नमूना"
       },
-      "image": "/images/ring.webp",
+      "image": "/Bhim-Lock-And-Keys/images/ring.webp",
       "price": null,
       "placeholder": true,
       "_comment": "// REPLACE with actual product, photo and optional verified INR price"
@@ -275,7 +275,7 @@
         "en": "Accessory concept",
         "hi": "एक्सेसरी का नमूना"
       },
-      "image": "/images/cover.webp",
+      "image": "/Bhim-Lock-And-Keys/images/cover.webp",
       "price": null,
       "placeholder": true,
       "_comment": "// REPLACE with actual product, photo and optional verified INR price"
