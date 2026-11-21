@@ -121,7 +121,7 @@ export default function KeyStage({
       <Image
         className="stage-image"
         style={{ opacity: enabled && ready ? 0 : 1 }}
-        src="/images/key-hero.webp"
+        src="/Bhim-Lock-And-Keys/images/key-hero.webp"
         alt={
           locale === "en"
             ? "Illustration of a dark car key fob with a brass metal rim"
