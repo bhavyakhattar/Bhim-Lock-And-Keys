@@ -742,6 +742,16 @@ export default function Experience() {
     {t("Call 94633 93119", "कॉल 94633 93119")} ↗
   </a>
 )}
+                {shop.secondaryPhone && (
+  <a
+    className="button outline"
+    href={whatsapp(defaultMessage, "919463393119")}
+    data-event="whatsapp_click"
+  >
+    WhatsApp 94633 93119 <span aria-hidden>↗</span>
+  </a>
+)}
+                
                 <a
                   className="button outline"
                   data-event="directions_click"
