@@ -23,9 +23,9 @@ export const siteURL =
 export const hasPhone = /^\+?[1-9]\d{9,14}$/.test(shop.phone);
 export const hasWhatsApp = /^[1-9]\d{9,14}$/.test(shop.whatsapp);
 export const callHref = hasPhone ? `tel:${shop.phone}` : "#contact";
-export function whatsapp(message: string) {
-  return hasWhatsApp
-    ? `https://wa.me/${shop.whatsapp}?text=${encodeURIComponent(message)}`
+export function whatsapp(message: string, number: string = shop.whatsapp) {
+  return /^[1-9]\d{9,14}$/.test(number)
+    ? `https://wa.me/${number}?text=${encodeURIComponent(message)}`
     : "#contact";
 }
 export const defaultMessage =
