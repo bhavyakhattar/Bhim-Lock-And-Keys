@@ -733,6 +733,15 @@ export default function Experience() {
                 >
                   {hasPhone ? "+91 98553 67929" : t("Call 98553 67929", "कॉल 98553 67929")} ↗
                 </a>
+                {shop.secondaryPhone && (
+  <a
+    className="button brass"
+    data-event="call_click"
+    href={`tel:${shop.secondaryPhone}`}
+  >
+    {t("Call 94633 93119", "कॉल 94633 93119")} ↗
+  </a>
+)}
                 <a
                   className="button outline"
                   data-event="directions_click"
