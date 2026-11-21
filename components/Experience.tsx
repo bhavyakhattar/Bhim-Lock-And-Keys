@@ -402,6 +402,11 @@ export default function Experience() {
           >
             {t("Call 98553 67929", "कॉल 98553 67929")} ↗
           </a>
+          {shop.secondaryPhone && (
+  <a className="button small-button" data-event="call_click" href={`tel:${shop.secondaryPhone}`}>
+    {t("Call 94633 93119", "कॉल 94633 93119")} ↗
+  </a>
+)}
         </div>
       </header>
       <RollingKey locale={locale} />
@@ -428,6 +433,11 @@ export default function Experience() {
                 {t("Call 98553 67929", "कॉल 98553 67929")}{" "}
                 <span aria-hidden>↗</span>
               </a>
+              {shop.secondaryPhone && (
+  <a className="button brass" href={`tel:${shop.secondaryPhone}`} data-event="call_click">
+    {t("Call 94633 93119", "कॉल 94633 93119")}{" "}<span aria-hidden>↗</span>
+  </a>
+)}
               <a
                 className="button outline"
                 href={whatsapp(defaultMessage)}
@@ -819,6 +829,9 @@ export default function Experience() {
         <a data-event="call_click" href={callHref}>
           ↗ {t("Call", "कॉल")}
         </a>
+        <a data-event="call_click" href={`tel:${shop.secondaryPhone}`}>
+  ↗ {t("Call 94633", "कॉल 94633")}
+</a>
         <a data-event="whatsapp_click" href={whatsapp(defaultMessage)}>
           WhatsApp
         </a>
